@@ -10,6 +10,6 @@ public class JavaService {
     }
 
     public JavaPerson getJavaPerson() {
-        return new JavaPerson("Bertrand", 25);
+        return new JavaPerson("Java Bertrand", 25);
     }
 }
